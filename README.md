@@ -7,4 +7,4 @@
 [<img src="https://frp.gsmneo.com/wp-content/uploads/2022/04/powershade2.png" min-width="75px" max-width="75px" width="75px" align="left">](https://github.com/guilhermecugler/frp/blob/main/notificationbar.apk)
 
 
-[Galaxy Store](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end)
+["Galaxy Store"](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end)
